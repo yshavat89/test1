@@ -7,7 +7,7 @@ public class test1 {
 		System.out.println("tasting...");
 		for(int i = 0 ; i< 30 ; i++)
 		{
-			System.out.println("tasting...");
+			System.out.println("tasting...");//jk
 		}
 
 	}
